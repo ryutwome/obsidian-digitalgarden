@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ceramics/instruction/"}
+{"dg-publish":true,"permalink":"/ceramics/instruction/","tags":["gardenEntry"]}
 ---
 
 
