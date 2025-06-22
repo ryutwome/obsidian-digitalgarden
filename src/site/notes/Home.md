@@ -3,6 +3,6 @@
 ---
 
 [[Ceramics/Instruction\|8 Session pottery class lesson plan]]
-[[Ceramics/Tableware\|Tableware]]
 
+[[Books\|Books]]
 
