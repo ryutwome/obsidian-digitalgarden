@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ceramics/recipes/"}
 ---
 
-# Low
+# ***Low
 
 ## Clear
 
@@ -19,7 +19,7 @@
 
 ---
 
-# Mid
+# ***Mid
 
 ## Clear
 
@@ -38,7 +38,7 @@
 
 ---
 
-# High
+# ***High
 
 ## Clear
 
