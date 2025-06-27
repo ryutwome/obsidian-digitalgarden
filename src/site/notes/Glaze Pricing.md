@@ -13,14 +13,14 @@ A concise breakdown of three **simple**, **stable**, and **affordable** clear gl
 
 ## 📋 Assumptions & Parameters
 
-- **Kiln draw**: 6.5 kW  
+- **Kiln draw**: 12 kW  
 - **Firing durations**:  
   - 1120 °C (Cone 2–3): 6 h  
   - 1220 °C (Cone 6): 10 h  
   - 1280 °C (Cone 8): 12 h  
-- **Electricity rate**: ₹ 9.81 / kWh  
+- **Electricity rate**: ₹ 12 / kWh  
 - **Load**: 40 mugs (5″ × 5″), glaze use ≈ 0.1515 kg per mug  
-- **Frit substitute**: Ceramique 1110 (₹ 255 / kg)
+- **Frit 3134 substitute**: Ceramique 1110 (₹ 255 / kg)
 
 ---
 
@@ -37,33 +37,32 @@ A concise breakdown of three **simple**, **stable**, and **affordable** clear gl
 
 ## ⚡ Electricity Cost per Mug
 
-| Temp     | Firing Energy Cost (₹)           | €/mug (₹)       |
-|----------|----------------------------------|---------------:|
-| 1120 °C  | 6.5 kW × 6 h × 9.81 = ₹ 382.59   | 382.59 / 40 = **9.56**  |
-| 1220 °C  | 6.5 kW × 10 h × 9.81 = ₹ 637.65  | 637.65 / 40 = **15.94** |
-| 1280 °C  | 6.5 kW × 12 h × 9.81 = ₹ 765.18  | 765.18 / 40 = **19.13** |
+| Temp      | Energy (kWh) | Energy Cost (₹)  | Maintenance (₹) | Total Firing Cost (₹) | Cost per Mug (₹) |
+|-----------|--------------|------------------|-----------------|----------------------|------------------|
+| 1120 °C   | 72           | 72 × 12 = 864    | 208             | 1,072                | 26.80            |
+| 1220 °C   | 120          | 120 × 12 = 1,440 | 415             | 1,855                | 46.38            |
+| 1280 °C   | 144          | 144 × 12 = 1,728 | 830             | 2,558                | 63.95            |
 
 ---
 
 ## 💰 Total Cost per Mug
 
-| Temp     | Mat’l per mug (₹)      | Elec per mug (₹) | **Total/mug (₹)** |
-|----------|-----------------------:|-----------------:|------------------:|
-| 1120 °C  | 94.00 × 0.1515 = 14.26 |           9.56   |        **23.82** |
-| 1220 °C  | 95.65 × 0.1515 = 14.50 |          15.94   |        **30.44** |
-| 1280 °C  | 64.75 × 0.1515 =  9.81 |          19.13   |        **28.94** |
+| Temp | Material per Mug (₹) | Firing per Mug (₹) | **Total per Mug (₹)** | 
+|-----------|---------------------:|-------------------:|----------------------:| 
+| 1120 °C | 14.25 | 26.80 | 41.05 | 
+| 1220 °C | 14.50 | 46.38 | 60.88 | 
+| 1280 °C | 9.81 | 63.95 | 73.76 | 
+
+*Material per mug = Material cost per kg × 150gm glaze per mug*
 
 ---
 
 ## 🗒 Notes & Recommendations
 
-- **Most affordable overall**: 1120 °C at **₹ 23.82/mug**  
-- **Best balance**: 1220 °C yields durable glass with moderate cost (₹ 30.44/mug)  
-- **High-fire trade-off**: 1280 °C uses cheapest materials but incurs higher energy (₹ 28.94/mug)  
+- **Most affordable overall**: 1120 °C at **₹ 41/mug**  
+- **Best balance**: 1220 °C yields durable glass with moderate cost (₹ 60/mug)  
+- **High-fire trade-off**: 1280 °C uses cheapest materials but incurs higher energy (₹ 73/mug)  
 - **Ceramique 1110 frit** matches Ferro 3134 chemistry (high-calcium borosilicate, low alumina)—1:1 substitution  
-- Always **test** glazes on sample pieces to confirm fit and surface quality  
-- **Record** specific gravity (1.45–1.48) and firing curves for reproducibility  
-- Adjust batch sizes or combine loads to optimize kiln efficiency
 
 ---
 
