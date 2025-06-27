@@ -13,7 +13,7 @@
 ###### Oxidation:
 
 Tenmoku - 10% rio 
-Yellow - 4% rutile
+Yellow - 4-6% rutile
 Blue - 0.5-1% cobalt
 White - 10% zircopax
 Green Tea Dust - 10% yio ,3%rutile, 10% talc
