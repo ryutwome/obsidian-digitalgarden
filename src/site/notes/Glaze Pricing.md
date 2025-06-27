@@ -5,10 +5,7 @@
 Friday, 27th June 2025 
 11:18 am
 
-# Clear Oxidation Glaze Cost Analysis
-
-A concise breakdown of three **simple**, **stable**, and **affordable** clear glaze recipes for electric-kiln oxidation firing at 1120 °C, 1220 °C, and 1280 °C. Calculations use Ceramique Industries prices, Ceramique 1110 as the 3134 frit substitute, and Mumbai residential electricity (₹ 9.81 / kWh).
-
+# Oxidation Clear Glaze Cost Analysis
 ---
 
 ## 📋 Assumptions & Parameters
