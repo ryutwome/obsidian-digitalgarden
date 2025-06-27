@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/ceramics/instruction/"}
 ---
 
-
 ## **Session 1: Clay Prep & Centering**
 
 **Objectives:**
