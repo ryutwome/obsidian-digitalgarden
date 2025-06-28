@@ -3,7 +3,7 @@
 ---
 
 
-# ***Low***
+# ***Low Temp***
 
 ## Clear
 
@@ -20,7 +20,7 @@
 
 ---
 
-# ***Mid***
+# ***Mid Temp***
 
 ## Clear
 
@@ -39,7 +39,7 @@
 
 ---
 
-# ***High***
+# ***High Temp***
 
 ## Clear
 
