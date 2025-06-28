@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Studio Karva, Summer 2025 log.md","dg-permalink":"Studio-Karva,-Summer-2025-log","permalink":"/Studio-Karva,-Summer-2025-log/"}
+{"dg-publish":true,"dg-path":"Studio Karva, Summer 2025 log.md","dg-permalink":"Studio-Karva,-Summer-2025-log","permalink":"/Studio-Karva,-Summer-2025-log/"}
 ---
 
 
