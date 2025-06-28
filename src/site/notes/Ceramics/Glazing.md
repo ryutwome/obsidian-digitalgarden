@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ceramics/glazing/","pinned":true}
 ---
 
-> [!Quick Notes]
+> [!Quick Notes]-
 > 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ceramics/quick-notes/#temperature-to-cone-table" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -76,10 +76,9 @@ Kaki - 15% rio, 8% talc, 8% bone ash
 </div></div>
 
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ceramics/recipes/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
+> [!Recipes]-
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ceramics/recipes/#low" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -100,6 +99,14 @@ Kaki - 15% rio, 8% talc, 8% bone ash
 
 ---
 
+
+</div></div>
+
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ceramics/recipes/#mid" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
 # ***Mid***
 
 ## Clear
@@ -118,6 +125,14 @@ Kaki - 15% rio, 8% talc, 8% bone ash
  - China Clay: 20
 
 ---
+
+
+</div></div>
+
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ceramics/recipes/#high" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 # ***High***
 
@@ -141,15 +156,12 @@ Kaki - 15% rio, 8% talc, 8% bone ash
 </div></div>
 
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ceramics/glaze-pricing/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
+>[!Glaze Pricing]-
+>
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ceramics/glaze-pricing/#oxidation-clear-glaze-cost-analysis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
-Saturday, 28th June 2025 
-01:36 am
+
 # Oxidation Clear Glaze Cost Analysis
 ---
 
