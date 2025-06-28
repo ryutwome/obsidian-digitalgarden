@@ -10,4 +10,4 @@
 |       |         |          | Teach opening base                                                      |
 | 26/06 |         |          | Mug, teapot form exploration                                            |
 | 27/06 | 1.30pm  | 8.30pm   | 13(18-5) mugs 500gm, learnt handle making. Made khurja clay test tiles. |
-| 28/06 |         |          |                                                                         |
+| 28/06 | 1.00pm  |          |                                                                         |
