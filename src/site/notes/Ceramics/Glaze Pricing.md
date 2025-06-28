@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ceramics/glaze-pricing/"}
+{"dg-publish":true,"permalink":"/ceramics/glaze-pricing/","hide":true}
 ---
 
 

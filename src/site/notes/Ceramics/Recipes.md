@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ceramics/recipes/"}
+{"dg-publish":true,"permalink":"/ceramics/recipes/","hide":true}
 ---
 
 

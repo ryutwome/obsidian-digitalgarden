@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/ceramics/quick-notes/"}
+{"dg-publish":true,"permalink":"/ceramics/quick-notes/","hide":true}
 ---
 
 
 
 ---
 # 🔥 Temperature to Cone Table
+{ #e95ce0}
+
 
 | Cone  | Celsius (°C) | Fahrenheit (°F) |
 |-------|--------------|-----------------|
