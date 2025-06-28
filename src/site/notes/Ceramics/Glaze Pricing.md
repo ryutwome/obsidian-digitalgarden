@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/ceramics/glaze-pricing/"}
 ---
 
+
 Saturday, 28th June 2025 
 01:36 am
 # Oxidation Clear Glaze Cost Analysis
@@ -61,4 +62,3 @@ Saturday, 28th June 2025
 - **Ceramique 1110 frit** matches Ferro 3134 chemistry (high-calcium borosilicate, low alumina)—1:1 substitution  
 
 ---
-

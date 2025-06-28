@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/ceramics/recipes/"}
 ---
 
+
 # ***Low***
 
 ## Clear
@@ -48,7 +49,7 @@
 
 🔥 Cone 10
 
-  ![Leach 4321.png|300](/img/user/Assets/Images/Leach%204321.png)
+![Leach 4321.png|300](/img/user/Assets/Images/Leach%204321.png)
 
 - Soda Feldspar: 40 
 - Silica: 30 
