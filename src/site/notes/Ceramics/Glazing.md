@@ -110,6 +110,9 @@ Kaki - 15% rio, 8% talc, 8% bone ash
  - Potash Feldspar: 20 
  - Silica: 20 
  - China Clay: 20
+---
+
+###
 
 ---
 

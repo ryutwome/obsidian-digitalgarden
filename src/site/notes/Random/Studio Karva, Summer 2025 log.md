@@ -4,11 +4,13 @@
 
 
 
-| Date  | Time In | Time Out            | Remark                                                                  |
-| ----- | ------- | ------------------- | ----------------------------------------------------------------------- |
-|       |         |                     | Teach centering                                                         |
-|       |         |                     | Teach opening base                                                      |
-| 26/06 |         |                     | Mug, teapot form exploration                                            |
-| 27/06 | 1.30pm  | 8.30pm              | 11(16-5) mugs 500gm, learnt handle making. Made khurja clay test tiles. |
-| 28/06 | 1.00pm  | 8.30pm, (6.45 done) | 13 mugs thrown 450gms ~10min each , 6 mugs handled took tooo longggg.   |
-| 29/06 |         |                     | Teach pulling                                                           |
+| Date  | Time In | Time Out            | Remark                                                                                                       |
+| ----- | ------- | ------------------- | ------------------------------------------------------------------------------------------------------------ |
+|       |         |                     | Teach centering                                                                                              |
+|       |         |                     | Teach opening base                                                                                           |
+| 26/06 |         |                     | Mug, teapot form exploration                                                                                 |
+| 27/06 | 1.30pm  | 8.30pm              | 11(16-5) mugs 500gm, learnt handle making. Made khurja clay test tiles.                                      |
+| 28/06 | 1.00pm  | 8.30pm, (6.45 done) | 13 mugs thrown 450gms ~10min each , 6 mugs handled took tooo longggg.                                        |
+| 29/06 | 12.30pm | 7pm                 | Teach pulling                                                                                                |
+| 01/07 |         |                     | Khurja, khurja-terra, terra shrinkage test tiles. 10 mugs stone-terra. Stone, terra, khurja glaze test tile. |
+|       |         |                     |                                                                                                              |
