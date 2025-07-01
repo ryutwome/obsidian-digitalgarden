@@ -111,8 +111,41 @@ Kaki - 15% rio, 8% talc, 8% bone ash
  - Silica: 20 
  - China Clay: 20
 ---
+### Laura Speirs "Perfect" Clear
+🔥 Cone 6
 
-###
+![Laura Speirs.jpg|300](/img/user/Assets/Images/Laura%20Speirs.jpg)
+
+- Minspar 200 (Potash Feldspar): 40.00%
+- Gerstley Borate: 30.00%
+- Kentucky OM #4 Ball Clay: 20.00%
+- Silica: 10.00% 
+
+---
+
+### Sandeep Sirs TR
+🔥 Cone 6
+
+
+- Feldspar 45%
+- Silica 20%
+- Whiting 20%
+- China Clay 10%
+- Zinc 2.5%
+- Talc 2.5% (variation 2.5% dolomite more matte surface)
+
+---
+
+### Odyssey Clear (J.Britt, Glazemania Workshop)
+🔥 Cone 6
+
+![Odyssey Clear.jpg|300](/img/user/Assets/Images/Odyssey%20Clear.jpg)
+
+- Nepheline Syenite 30%
+- Silica 30%
+- Gerstley Borate 20%
+- EP Kaolin 10%
+- Whiting 10%
 
 ---
 
@@ -134,6 +167,8 @@ Kaki - 15% rio, 8% talc, 8% bone ash
 - China Clay: 10
 
 ---
+
+
 
 </div></div>
 
