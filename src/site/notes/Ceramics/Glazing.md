@@ -5,7 +5,7 @@
 [[Ceramics/Quick Notes\|Quick Notes]]
 [[Ceramics/Recipes\|Recipes]]
 [[Ceramics/Glaze Pricing\|Glaze Pricing]]
-[[Glaze suppliers\|Glaze suppliers]]
+[[Ceramics/Glaze suppliers\|Glaze suppliers]]
 
 
 
