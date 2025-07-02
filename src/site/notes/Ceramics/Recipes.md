@@ -38,7 +38,7 @@
  - China Clay: 20
 ---
 ### Laura Speirs "Perfect" Clear
-🔥 Cone 6
+🔥 Cone 5-6
 
 ![Laura Speirs.jpg|300](/img/user/Assets/Images/Laura%20Speirs.jpg)
 
@@ -72,6 +72,18 @@
 - Gerstley Borate 20%
 - EP Kaolin 10%
 - Whiting 10%
+
+---
+### (GHP)Hiroe Hanazono Clear
+🔥 Cone 6
+
+![GHP Clear.jpg|300](/img/user/Assets/Images/GHP%20Clear.jpg)
+
+- Minspar 200 38%
+- Silica 22.80%
+- Gillespie(Gerstley) Borate 19.60%
+- EP Kaolin 10.90%
+- Whiting 8.70%
 
 ---
 
