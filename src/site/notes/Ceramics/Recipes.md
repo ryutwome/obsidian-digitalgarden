@@ -58,7 +58,7 @@
 - Whiting 20%
 - China Clay 10%
 - Zinc 2.5%
-- Talc 2.5% (variation 2.5% dolomite more matte surface)
+- Barium Carbonate 2.5% (variation 2.5% dolomite (maybe even talc))
 
 ---
 

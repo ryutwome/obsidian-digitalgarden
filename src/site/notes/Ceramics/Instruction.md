@@ -49,13 +49,17 @@ Pull your thumbs outward to widen the hole, keeping your fingers level. This cre
 **Objectives:**
 
 - Practice shaping a cylinder
-- Learn to check for evenness
+- Learn to throw to a height
 
 **Script:**  
-"After pulling up the walls, use both hands to guide the sides straight up. Use your fingers to gently compress the rim."
+"Use the measuring stick to check height and width (3x3.5inch with 400gm clay)"
+
+Cutting rim
+Coochi
+
 
 ---
-## **Session 5: Making a Bowl**
+## **Session 5: Aesthetics and Function + Trimming**
 
 **Objectives:**
 
@@ -63,43 +67,32 @@ Pull your thumbs outward to widen the hole, keeping your fingers level. This cre
 - Notice the difference from a cylinder
 
 **Script:**  
-"Start like you’re making a cylinder, then gently push outwards with your inside hand as you pull up. Use your outside hand to support the shape. Opening the shape outwards creates a bowl and helps you learn to control curves."
+"Draw 5 forms each by altering the rims for mugs and tumbler"
 
 ---
 
-## **Session 6: Trimming & Foot Rings**
+## **Session 6: Repetition Throwing**
 
 **Objectives:**
 
-- Try trimming a pot
-- Make a simple foot ring
-
-**Script:**  
-"Place your leather-hard pot upside down on the wheel and secure it. Use a trimming tool to gently shave away excess clay from the base. Carve a shallow ring around the bottom. Trimming removes extra clay and makes the bottom neat, while a foot ring helps your pot sit evenly and look finished."
+- Throwing identical.
 
 ---
 
-## **Session 7: Glazing Basics**
+## **Session 7: Handles**
 
 **Objectives:**
 
-- Learn how to glaze
-- Try dipping or brushing glaze
-
-**Script:**  
-"Dip your pot into glaze for about three seconds, then lift and let the extra glaze drip off. Wipe the bottom clean with a sponge. Glazing adds color and a smooth surface to your pot, and cleaning the bottom keeps it from sticking to the kiln shelf."
+- Learn how to make handles
 
 ---
 
-## **Session 8: Review & Practice**
+## **Session 8: Glazing**
 
 **Objectives:**
 
-- Practice what you’ve learned
-- Ask questions and get feedback
-
-**Script:**  
-"Choose to make a cup, bowl, or cylinder using the steps you’ve learned. Focus on each stage: centering, opening, pulling, and shaping. Practicing all the steps together helps you remember the process and see how much you’ve improved."
+- Learn what glazes are.
+- Learn to apply glazes.
 
 ---
 
