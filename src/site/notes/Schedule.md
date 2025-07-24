@@ -18,6 +18,9 @@ Will return home from studio with nandini at night.
 Monday, 21st July 2025
 Will go to iit in the morning with nandini
 
+Saturday, 26th July 2025
+Might go home
+
 Monday, 28th July 2025
 **Stage 0 P1 presentation**
 
