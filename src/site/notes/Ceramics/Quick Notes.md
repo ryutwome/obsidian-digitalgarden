@@ -62,3 +62,15 @@ White - 10% zircopax
 Green Tea Dust - 10% yio ,3%rutile, 10% talc
 Yellow Tea Dust - 10% rio, 7% talc
 Kaki - 15% rio, 8% talc, 8% bone ash
+
+#  Clay Shrinkage
+
+## Dry:
+
+Roughly 5%
+
+## Bisque:
+
+
+## Glaze:
+

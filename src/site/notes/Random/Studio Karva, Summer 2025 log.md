@@ -21,6 +21,7 @@ T5
 | 08/07 | 12.45pm                | 8.30pm              | Trimmed dishes 16, broken 2 dishes, 5050leftover 2kg(1.5+5)                                                                     |
 | 10/07 | 12.40pm                | 5.30pm              | Cleaned bisque pots, load kiln plan, flattened plate bottoms                                                                    |
 | 11/07 | 12.30pm reached 1pm in |                     | Make glaze                                                                                                                      |
+|       |                        |                     |                                                                                                                                 |
 
 
 Total 

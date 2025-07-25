@@ -4,7 +4,7 @@
 
 
 
-[[Ceramics/Instruction\|8 Session pottery class lesson plan]]
+[[Random/Instruction\|8 Session pottery class lesson plan]]
 [[Ceramics/Ceramics\|Ceramics]]
 
 
