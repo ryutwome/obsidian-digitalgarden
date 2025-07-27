@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"P1.md","dg-permalink":"P1","permalink":"/P1/"}
+{"dg-publish":true,"dg-path":"P1.md","permalink":"/p1/"}
 ---
 
 
