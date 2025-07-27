@@ -18,10 +18,11 @@ Portfolio link make
 Resume make 
 
 
-###### 2025
+##### 2025
+
+###### Summer 
 
 Friday, 18th July 
-07:03 pm
 Going to shubhadeep 
 Staying overnight at shubhadeep
 
@@ -37,6 +38,8 @@ Will go to iit in the morning with nandini
 
 Saturday, 26th July 
 Might go home
+
+###### 7th Sem 
 
 **Monday, 28th July 
 Stage 0 P1 presentation**
