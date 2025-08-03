@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ceramics/clay-recipes/","hide":true}
+{"dg-publish":true,"permalink":"/ceramics/clay-recipes/"}
 ---
 
 
